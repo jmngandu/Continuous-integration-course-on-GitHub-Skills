@@ -49,7 +49,7 @@ _Create workflows that enable you to use Continuous Integration (CI) for your pr
   Encourage users to open new tabs for steps!
 -->
 
-<details id=1 open>
+<details id=1>
 <summary><h2>Step 1: Add a test workflow</h2></summary>
 
 _Welcome to "GitHub Actions: Continuous Integration"! :wave:_
@@ -96,7 +96,7 @@ First, let's add a workflow to lint our Markdown files in this repository.
   Define terms and link to docs.github.com.
 -->
 
-<details id=2>
+<details id=2 open>
 <summary><h2>Step 2: Fix the test</h2></summary>
 
 _Great job adding the templated workflow! :tada:_
